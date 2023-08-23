@@ -1,0 +1,1 @@
+This is a copy of the Bootstrap website. It is to  be used and modified for training purposes.

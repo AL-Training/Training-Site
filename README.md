@@ -1,1 +1,2 @@
 This is a copy of the Bootstrap website. It is to  be used and modified for training purposes.
+The plan is to make a Hub project out of it. A fully audited copy will be kept somewhere for referencing while doing IR/PR on a trainees copy of the project. Modification of these pages will be necessary in order to include more accessibility issues and components to encompass a wide array of components and accessibility issues.
